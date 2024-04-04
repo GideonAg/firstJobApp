@@ -1,5 +1,5 @@
 ﻿# This is a JobApp api Springboot monolithic application.
- Will later be converted into a microservices application, dockerized and pushed to [docker hub](https://hub.docker.com/repository/docker/redeemerlives/firstjobapp/general).
+ Will later be converted into a microservices application, dockerized and pushed to [docker hub](https://hub.docker.com/r/redeemerlives/firstjobapp).
 
 It has three parts working together to achieve the functionality of the application.
 
